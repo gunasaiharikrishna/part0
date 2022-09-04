@@ -1,0 +1,41 @@
+html {
+    font-size: 9px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  }
+  
+  
+  h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+  }
+  
+  
+  html {
+    background-color: #9f5200;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #00ff5e;
+    padding: 0 20px 20px 20px;
+    border: 5px double black;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+  img {
+    display: inline-block;
+    margin: 0 auto;
+  }
